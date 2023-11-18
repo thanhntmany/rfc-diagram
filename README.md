@@ -1,6 +1,4 @@
-# rfc-diagram
-
-An arranged diagram of RFC series for tracking standards easier.
+# An arranged diagram of RFC series for tracking standards easier.
 
 [Click to view full size](https://raw.githubusercontent.com/thanhntmany/rfc-diagram/main/RFC-Diagram.svg)
 
